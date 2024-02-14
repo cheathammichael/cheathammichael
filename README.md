@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Michael!
-- 👀 I’m interested in Cloud Computing, DevSecOps, and JAVA! (love me some Java!)
-- 🌱 I’m currently learning all the ins and outs of Azure services, particularly as it pertains to CI/CD pipelines!
-- 💞️ I’m down to collaborate on pretty much anything. The world is so full of knowledge, and I want to learn it all!
-- 📫 You can reach me on Linkedin (https://www.linkedin.com/in/michael-cheatham-30b604166/), or Discord (int3nt#7027)
-
-<!---
-cheathammichael/cheathammichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Hi! I'm Michael! I'm a DevOps and CI/CD professional who has designed, written, and implemented multiple pipelines and
+applications for both CI/CD and data manipulation. I am an experienced Azure DevOps professional and hold certifications
+in Application Development and Continuous Development/Release Orchestration. I am very well-versed in Python, Java, .NET,
+yaml, BASH, Git, et al. I am also well-versed in Network Architecture, having on one engagement designed and created the
+templatized architecture for a global corporation's connections from Cloud to Ground, including mass-transit connections
+to all three major Public Cloud players. I am extremely comfortable working with Palo Alto, Netscreen, and SRX firewalls,
+as well as NSX-T's inbuilt distributed firewall (configured via Terraform Go). Thank you for coming to my TED Talk.
